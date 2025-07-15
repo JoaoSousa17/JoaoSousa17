@@ -1,12 +1,12 @@
 <!-- README.md para o perfil do GitHub -->
 
-# 👋 Olá! Eu sou o Domingos Neto
+# Hi👋, I'm João Sousa
 
-💻 Desenvolvedor apaixonado por tecnologia e aprendizado contínuo.  
-🎯 Buscando oportunidades para colaborar em projetos open source e desafios técnicos.  
-📚 Estudando Inteligência Artificial e Desenvolvimento Mobile.
+💻 Software Developer with a strong focus on impactful solutions;
+🚀 Passionate about entrepreneurship, innovation, and solving real-world problems;
+💪 Fitness enthusiast; 
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/SEU-USUARIO/)](https://www.linkedin.com/in/SEU-USUARIO/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=www.linkedin.com/in/joaosousaa)](www.linkedin.com/in/joaosousaa)
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white&link=mailto:SEUEMAIL@gmail.com)](mailto:SEUEMAIL@gmail.com)
 [![Portfólio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=github&logoColor=white&link=https://domingosneto03.github.io)](https://domingosneto03.github.io)
 
@@ -65,30 +65,6 @@
 - [ ] Lançar um app Flutter completo na Play Store
 - [ ] Obter certificação em AWS ou GCP
 
----
-
-## 📚 Publicações & Participações
-
-- ✍️ [Como organizar um projeto em Java](https://dev.to/usuario/exemplo)
-- 🎙️ Palestra “Introdução ao Docker” no DevTalks 2024
-
----
-
-## 🎸 Curiosidades
-
-- 🎧 Toco guitarra desde os 10 anos
-- 🤖 Adoro automações com bash e Python
-- 🌎 Já estive em 7 países
-
----
-
-## 📬 Entre em contato
-
-📫 **Email:** domingosneto03@gmail.com  
-💼 **LinkedIn:** [linkedin.com/in/domingosneto03](https://www.linkedin.com/in/domingosneto03)  
-🌐 **Portfólio:** [domingosneto03.github.io](https://domingosneto03.github.io)
-
----
 
 > _"A melhor maneira de prever o futuro é criá-lo."_ – Alan Kay
 
