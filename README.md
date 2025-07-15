@@ -6,7 +6,8 @@
 🚀 Passionate about entrepreneurship, innovation, and solving real-world problems; <br>
 💪 Fitness enthusiast; 
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=www.linkedin.com/in/joaosousaa)](www.linkedin.com/in/joaosousaa)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaosousaa)
+
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white&link=mailto:SEUEMAIL@gmail.com)](mailto:SEUEMAIL@gmail.com)
 [![Portfólio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=github&logoColor=white&link=https://domingosneto03.github.io)](https://domingosneto03.github.io)
 
