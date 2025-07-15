@@ -2,8 +2,8 @@
 
 # Hi👋, I'm João Sousa
 
-💻 Software Developer with a strong focus on impactful solutions;
-🚀 Passionate about entrepreneurship, innovation, and solving real-world problems;
+💻 Software Developer with a strong focus on impactful solutions; <br>
+🚀 Passionate about entrepreneurship, innovation, and solving real-world problems; <br>
 💪 Fitness enthusiast; 
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=www.linkedin.com/in/joaosousaa)](www.linkedin.com/in/joaosousaa)
