@@ -1,8 +1,10 @@
 <!-- README.md para o perfil do GitHub -->
 
 <p align="center">
-  <h1 align="center">Hi 👋, I'm João Sousa</h1>
+  <img src="Images/banner.png" alt="Hello World, I'm João Sousa banner" width="1000"/>
 </p>
+
+<br>
 
 <p align="justify">
   I'm currently completing my degree in Computer Engineering at FEUP (Faculty of Engineering, University of Porto).  
