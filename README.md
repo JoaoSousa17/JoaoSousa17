@@ -31,7 +31,7 @@
 
 ---
 
-## 🧰 Technologies & Tools
+## <img src="Images/icons/edit-tools-2.png" alt="" width="24"/> Technologies & Tools
 
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -53,7 +53,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## <img src="Images/icons/bar-chart.png" alt="" width="24"/> GitHub Stats
 <br>
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoSousa17&show_icons=true&theme=codeSTACKr&count_private=true"/>
