@@ -24,7 +24,7 @@
 
 ---
 
-## 🚀 Featured Projects
+## <img src="Images/icons/manutencao.png" alt="" width="24"/> Featured Projects
 
 [![PortefolioPessoal](https://github-readme-stats.vercel.app/api/pin/?username=JoaoSousa17&repo=PortefolioPessoal&theme=codeSTACKr&cache_seconds=3600)](https://github.com/JoaoSousa17/PortefolioPessoal)
 [![gestor_tarefas](https://github-readme-stats.vercel.app/api/pin/?username=JoaoSousa17&repo=Projeto_App_Gestor_Tarefas&theme=codeSTACKr&cache_seconds=3600)](https://github.com/JoaoSousa17/Projeto_App_Gestor_Tarefas)
