@@ -12,9 +12,9 @@
 </p>
 
 
-💻 Software Developer with a strong focus on impactful solutions; <br>
-🚀 Passionate about entrepreneurship, innovation, and solving real-world problems; <br>
-💪 Fitness enthusiast;
+💻 &nbsp;Software Developer with a strong focus on impactful solutions; <br>
+🚀 &nbsp;Passionate about entrepreneurship, innovation, and solving real-world problems; <br>
+💪 &nbsp;Fitness enthusiast;
 
 <br>
 
@@ -24,14 +24,14 @@
 
 ---
 
-## <img src="Images/icons/manutencao.png" alt="" width="24"/> Featured Projects
+## <img src="Images/icons/manutencao.png" alt="" width="24"/> &nbsp;Featured Projects
 
 [![PortefolioPessoal](https://github-readme-stats.vercel.app/api/pin/?username=JoaoSousa17&repo=PortefolioPessoal&theme=codeSTACKr&cache_seconds=3600)](https://github.com/JoaoSousa17/PortefolioPessoal)
 [![gestor_tarefas](https://github-readme-stats.vercel.app/api/pin/?username=JoaoSousa17&repo=Projeto_App_Gestor_Tarefas&theme=codeSTACKr&cache_seconds=3600)](https://github.com/JoaoSousa17/Projeto_App_Gestor_Tarefas)
 
 ---
 
-## <img src="Images/icons/edit-tools-2.png" alt="" width="24"/> Technologies & Tools
+## <img src="Images/icons/edit-tools-2.png" alt="" width="24"/> &nbsp;Technologies & Tools
 
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -53,7 +53,7 @@
 
 ---
 
-## <img src="Images/icons/bar-chart.png" alt="" width="24"/> GitHub Stats
+## <img src="Images/icons/bar-chart.png" alt="" width="24"/> &nbsp;GitHub Stats
 <br>
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoSousa17&show_icons=true&theme=codeSTACKr&count_private=true"/>
@@ -66,21 +66,21 @@
   <summary align="center">📈 Detailed Metrics</summary>
 
   <!-- Streak Stats -->
-  ## <img src="Images/icons/fire.png" alt="" width="24"/> Streak Stats
+  ## <img src="Images/icons/fire.png" alt="" width="24"/> &nbsp;Streak Stats
   <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoSousa17&theme=codeSTACKr" alt="Streak Stats" />
   </div>
   <br>
 
   <!-- Activity Graph -->
-  ## <img src="Images/icons/online-activity.png" alt="" width="24"/> Activity Graph
+  ## <img src="Images/icons/online-activity.png" alt="" width="24"/> &nbsp;Activity Graph
   <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoaoSousa17&theme=react-dark" alt="Activity Graph" />
   </div>
   <br>
 
   <!-- GitHub Trophies -->
-  ## <img src="Images/icons/trophy.png" alt="" width="24"/> GitHub Trophies
+  ## <img src="Images/icons/trophy.png" alt="" width="24"/> &nbsp;GitHub Trophies
   <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=JoaoSousa17&theme=codeSTACKr&margin-w=10" alt="GitHub Trophies" />
   </div>
@@ -89,7 +89,7 @@
 
 ---
 
-## <img src="Images/icons/certificate-1356.png" alt="Certificate Icon" width="24"/> Certificates
+## <img src="Images/icons/certificate-1356.png" alt="Certificate Icon" width="24"/> &nbsp;Certificates
 
 - <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7zmzguRUdNPxg-5ixP9ICiFXXiKx1gBAIKQ&s" alt="Udemy Logo" width="20"/> &nbsp; Complete C and C++ Language Course – Beginner to Advanced;
 - <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7zmzguRUdNPxg-5ixP9ICiFXXiKx1gBAIKQ&s" alt="Udemy Logo" width="20"/> &nbsp; Complete Web Development – 20 Courses + 20 Projects;
