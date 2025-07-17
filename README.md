@@ -89,7 +89,7 @@
 
 ---
 
-## <img src="https://static.vecteezy.com/system/resources/previews/000/330/928/original/vector-certificate-flat-icon.jpg" alt="Certificate Icon" width="24"/> Certificates
+## <img src="Images/icons/certificate-1356.png" alt="Certificate Icon" width="24"/> Certificates
 
 - <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7zmzguRUdNPxg-5ixP9ICiFXXiKx1gBAIKQ&s" alt="Udemy Logo" width="20"/> &nbsp; Complete C and C++ Language Course – Beginner to Advanced;
 - <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7zmzguRUdNPxg-5ixP9ICiFXXiKx1gBAIKQ&s" alt="Udemy Logo" width="20"/> &nbsp; Complete Web Development – 20 Courses + 20 Projects;
