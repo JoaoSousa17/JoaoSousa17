@@ -66,21 +66,21 @@
   <summary align="center">📈 Detailed Metrics</summary>
 
   <!-- Streak Stats -->
-  ## Streak Stats
+  ## <img src="Images/icons/fire.png" alt="" width="24"/> Streak Stats
   <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoSousa17&theme=codeSTACKr" alt="Streak Stats" />
   </div>
   <br>
 
   <!-- Activity Graph -->
-  ## Activity Graph
+  ## <img src="Images/icons/online-activity.png" alt="" width="24"/> Activity Graph
   <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoaoSousa17&theme=react-dark" alt="Activity Graph" />
   </div>
   <br>
 
   <!-- GitHub Trophies -->
-  ## GitHub Trophies
+  ## <img src="Images/icons/trophy.png" alt="" width="24"/> GitHub Trophies
   <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=JoaoSousa17&theme=codeSTACKr&margin-w=10" alt="GitHub Trophies" />
   </div>
